@@ -1,0 +1,43 @@
+src/bmm/workflows/2-plan-workflows/create-strs/steps/step-04-operational-requirements.md
+  865ccaa38f5b6d91 1-206
+src/bmm/workflows/2-plan-workflows/create-strs/workflow.md
+  865ccaa38f5b6d91 1-64
+src/bmm/workflows/2-plan-workflows/create-strs/steps/step-05-user-requirements.md
+  865ccaa38f5b6d91 1-203
+src/bmm/workflows/2-plan-workflows/create-strs/checklist.md
+  865ccaa38f5b6d91 1-102
+src/bmm/workflows/2-plan-workflows/create-strs/steps/step-02-stakeholder-identification.md
+  865ccaa38f5b6d91 1-208
+src/bmm/workflows/2-plan-workflows/create-strs/steps/step-01-init.md
+  865ccaa38f5b6d91 1-197
+src/bmm/workflows/2-plan-workflows/create-strs/templates/strs-template.md
+  865ccaa38f5b6d91 1-15
+src/bmm/workflows/2-plan-workflows/create-strs/steps/step-07-project-constraints.md
+  865ccaa38f5b6d91 1-206
+src/bmm/workflows/2-plan-workflows/create-strs/steps/step-03-business-context.md
+  865ccaa38f5b6d91 1-192
+src/bmm/workflows/2-plan-workflows/create-strs/steps/step-08-review-complete.md
+  865ccaa38f5b6d91 1-149
+src/bmm/workflows/2-plan-workflows/create-strs/steps/step-06-operational-concept.md
+  865ccaa38f5b6d91 1-187
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.3",
+  "base_commit_sha": "378f96cd43ea1123adfc263baed017a5f165ba30",
+  "prompts": {
+    "865ccaa38f5b6d91": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "21ee2718-0b99-4f52-9501-e8e59890b582",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Tolga Karatas <tolgakaratas@gmail.com>",
+      "messages": [],
+      "total_additions": 1729,
+      "total_deletions": 0,
+      "accepted_lines": 1729,
+      "overriden_lines": 0
+    }
+  }
+}
