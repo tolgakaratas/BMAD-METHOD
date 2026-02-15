@@ -1,0 +1,27 @@
+src/bmm/workflows/2-plan-workflows/create-ux-design/steps/step-01-init.md
+  865ccaa38f5b6d91 67-69,103,105-106
+src/bmm/workflows/2-plan-workflows/create-ux-design/steps/step-13-responsive-accessibility.md
+  865ccaa38f5b6d91 230,262
+src/bmm/workflows/2-plan-workflows/create-ux-design/steps/step-13b-requirements-validation.md
+  865ccaa38f5b6d91 1-176
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.3",
+  "base_commit_sha": "a351874068c2c025bdcbd27807e736f08b6262f1",
+  "prompts": {
+    "865ccaa38f5b6d91": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "21ee2718-0b99-4f52-9501-e8e59890b582",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Tolga Karatas <tolgakaratas@gmail.com>",
+      "messages": [],
+      "total_additions": 800,
+      "total_deletions": 4,
+      "accepted_lines": 1664,
+      "overriden_lines": 0
+    }
+  }
+}
