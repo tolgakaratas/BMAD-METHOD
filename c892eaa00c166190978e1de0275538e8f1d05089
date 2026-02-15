@@ -1,0 +1,25 @@
+src/bmm/workflows/shared/templates/rtm-template.md
+  865ccaa38f5b6d91 1-83
+src/bmm/workflows/shared/rtm/workflow.md
+  865ccaa38f5b6d91 1-182
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.3",
+  "base_commit_sha": "c892eaa00c166190978e1de0275538e8f1d05089",
+  "prompts": {
+    "865ccaa38f5b6d91": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "21ee2718-0b99-4f52-9501-e8e59890b582",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Tolga Karatas <tolgakaratas@gmail.com>",
+      "messages": [],
+      "total_additions": 265,
+      "total_deletions": 0,
+      "accepted_lines": 265,
+      "overriden_lines": 0
+    }
+  }
+}
