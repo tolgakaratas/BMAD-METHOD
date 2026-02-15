@@ -1,0 +1,35 @@
+src/bmm/workflows/2-plan-workflows/create-prd/steps-c/step-09-functional.md
+  865ccaa38f5b6d91 106,112-123,166-167,185-199
+src/bmm/workflows/2-plan-workflows/create-prd/steps-c/step-10d-verification.md
+  865ccaa38f5b6d91 1-165
+src/bmm/workflows/2-plan-workflows/create-prd/steps-c/step-11-polish.md
+  865ccaa38f5b6d91 130-134,148-151
+src/bmm/workflows/2-plan-workflows/create-prd/steps-c/step-10b-interfaces.md
+  865ccaa38f5b6d91 1-169
+src/bmm/workflows/2-plan-workflows/create-prd/steps-c/step-10c-constraints.md
+  865ccaa38f5b6d91 1-172
+src/bmm/workflows/2-plan-workflows/create-prd/steps-c/step-10-nonfunctional.md
+  865ccaa38f5b6d91 6,135-136,161-176,188,260,262
+src/bmm/workflows/2-plan-workflows/create-prd/templates/prd-template.md
+  865ccaa38f5b6d91 5-7,14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.3",
+  "base_commit_sha": "124b7164bdcdc10abf8e69aa08ea9c89b67ae74d",
+  "prompts": {
+    "865ccaa38f5b6d91": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "21ee2718-0b99-4f52-9501-e8e59890b582",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Tolga Karatas <tolgakaratas@gmail.com>",
+      "messages": [],
+      "total_additions": 576,
+      "total_deletions": 5,
+      "accepted_lines": 576,
+      "overriden_lines": 0
+    }
+  }
+}
