@@ -1,0 +1,29 @@
+src/bmm/workflows/shared/templates/change-request-template.md
+  865ccaa38f5b6d91 1-118
+src/bmm/workflows/shared/cross-document-validation/workflow.md
+  865ccaa38f5b6d91 1-294
+src/bmm/workflows/shared/change-management/workflow.md
+  865ccaa38f5b6d91 1-190
+src/bmm/workflows/shared/change-management/checklist.md
+  865ccaa38f5b6d91 1-53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.3",
+  "base_commit_sha": "e0b1b7cd9da3c57b0454eff4bdbbc5a25fd4418d",
+  "prompts": {
+    "865ccaa38f5b6d91": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "21ee2718-0b99-4f52-9501-e8e59890b582",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Tolga Karatas <tolgakaratas@gmail.com>",
+      "messages": [],
+      "total_additions": 655,
+      "total_deletions": 0,
+      "accepted_lines": 655,
+      "overriden_lines": 0
+    }
+  }
+}
