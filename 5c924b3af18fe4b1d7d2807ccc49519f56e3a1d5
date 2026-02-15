@@ -1,0 +1,29 @@
+src/bmm/workflows/4-implementation/sprint-planning/instructions.md
+  865ccaa38f5b6d91 147-168
+src/bmm/workflows/shared/templates/context-guard-rules.md
+  865ccaa38f5b6d91 1-39
+src/bmm/workflows/4-implementation/code-review/instructions.xml
+  865ccaa38f5b6d91 97-107
+src/bmm/workflows/shared/templates/document-versioning-guide.md
+  865ccaa38f5b6d91 1-99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.3",
+  "base_commit_sha": "5c924b3af18fe4b1d7d2807ccc49519f56e3a1d5",
+  "prompts": {
+    "865ccaa38f5b6d91": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "21ee2718-0b99-4f52-9501-e8e59890b582",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Tolga Karatas <tolgakaratas@gmail.com>",
+      "messages": [],
+      "total_additions": 171,
+      "total_deletions": 1,
+      "accepted_lines": 171,
+      "overriden_lines": 0
+    }
+  }
+}
