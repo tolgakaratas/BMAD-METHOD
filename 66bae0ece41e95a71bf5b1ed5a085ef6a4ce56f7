@@ -1,0 +1,25 @@
+src/bmm/workflows/1-analysis/create-product-brief/steps/step-06-complete.md
+  865ccaa38f5b6d91 110-121,125
+src/bmm/workflows/3-solutioning/create-architecture/steps/step-08-complete.md
+  865ccaa38f5b6d91 42-55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.3",
+  "base_commit_sha": "66bae0ece41e95a71bf5b1ed5a085ef6a4ce56f7",
+  "prompts": {
+    "865ccaa38f5b6d91": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "21ee2718-0b99-4f52-9501-e8e59890b582",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Tolga Karatas <tolgakaratas@gmail.com>",
+      "messages": [],
+      "total_additions": 27,
+      "total_deletions": 1,
+      "accepted_lines": 27,
+      "overriden_lines": 0
+    }
+  }
+}
